@@ -1,0 +1,24 @@
+{
+  "query": [
+    {
+      "number": 1,
+      "name": "DEV CRUZ",
+      "ip": "172.96.140.62",
+      "port": 7876,
+      "online": 150,
+      "maxplayers": 10,
+      "password": true,
+      "server_password": "0"
+    },
+    {
+      "number": 2,
+      "name": "Servidor de Testes (Com Senha)",
+      "ip": "192.168.0.100",
+      "port": 7778,
+      "online": 10,
+      "maxplayers": 50,
+      "password": true,
+      "server_password": "outrasenhaforte"
+    }
+  ]
+}
